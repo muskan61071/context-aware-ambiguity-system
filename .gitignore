@@ -8,3 +8,7 @@ nlp-engine/*.sqlite3
 *.py[cod]
 .env
 .DS_Store
+~$*
+*.pptx
+*.docx
+
